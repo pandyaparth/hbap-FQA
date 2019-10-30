@@ -5,8 +5,10 @@
 
 ##2. How is replication, control and randomization implemented in this completely randomized designed experiment?
 #A2. Replication - sent to all the HBAP students in two groups. The replication in each group (strata?)
-# Control - there were only two paintings to decide upon. The max price was also fixed (ie. $1000)
-# Randomisation - selection of students in two groups
+# Control & Treatment -  
+  #Right ans - Do you have that info or not? computer or artist. 
+  #Control - The
+# Randomisation - selection of students in two groups. CRD
 
 #3. What types of biases may be present in this experiment, and how can they be overcome?
 #A3. the half of the students may rely on the information given as which one is artist generated and which is computer generated. There would be another bias if the 'contaminations' had occured between the groups
